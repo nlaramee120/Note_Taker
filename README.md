@@ -39,6 +39,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 
-![GitHub](https://github.com/nlaramee120/Note_Taker)
+https://github.com/nlaramee120/Note_Taker
 
-![Deployed Page](https://nlaramee120.github.io/Note_Taker/)
+https://nlaramee120.github.io/Note_Taker/
